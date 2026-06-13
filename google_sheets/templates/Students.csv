@@ -1,0 +1,2 @@
+studentId,name,class,section,dob,admissionDate,fatherName,fatherPhone,fatherEmail,motherName,motherPhone,motherEmail,address,aadharNo,totalFees,profilePhotoUrl,active
+S001,Aarav Verma,Nursery,A,2020-05-10,2024-04-01,Rohit Verma,9876543210,rohit@email.com,Anita Verma,9876543211,anita@email.com,Lucknow,123456789012,24000,,TRUE
