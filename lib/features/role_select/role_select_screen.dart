@@ -89,7 +89,7 @@ class _RoleCard extends StatelessWidget {
             children: [
               CircleAvatar(
                 radius: 28,
-                backgroundColor: AppColors.maroon.withValues(alpha: 0.12),
+                backgroundColor: AppColors.maroon.withOpacity(0.12),
                 child: Icon(icon, color: AppColors.maroon, size: 30),
               ),
               const SizedBox(width: 16),
